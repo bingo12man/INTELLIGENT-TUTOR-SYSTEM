@@ -2,7 +2,10 @@
 
 An AI-powered tutoring system using **Flask, Vue.js, MongoDB, and OpenAI GPT-4**. The system provides **real-time, interactive, and personalized learning experiences** by responding to users' questions.
 
-<img width="539" alt="Screenshot 2025-02-24 at 2 02 06 PM" src="https://github.com/user-attachments/assets/1ca7add4-7933-4021-9e5b-2fcc5b90293f" />
+<p align="center">
+  <img width="539" alt="Screenshot 2025-02-24 at 2 02 06 PM" src="https://github.com/user-attachments/assets/1ca7add4-7933-4021-9e5b-2fcc5b90293f" />
+</p>
+
 
 ---
 
