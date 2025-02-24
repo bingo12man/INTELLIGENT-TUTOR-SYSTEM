@@ -28,6 +28,7 @@ An AI-powered tutoring system using **Flask, Vue.js, MongoDB, and OpenAI GPT-4**
 ## 🚀 Usage
 
 - Open the frontend in a browser: http://localhost:5173/
+- For the backend, use the following command: python3 server.py
 - Type a question (e.g., "What is recursion?")
 - The AI tutor responds with an explanation.
 - The chat history is stored in MongoDB for continued learning.
