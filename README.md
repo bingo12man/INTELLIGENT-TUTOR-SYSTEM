@@ -22,9 +22,9 @@ An AI-powered tutoring system using **Flask, Vue.js, MongoDB, and OpenAI GPT-4**
 
 ---
 
-## ⚙️ Setup Instructions
+## 🚀 Usage
 
-### **1️⃣ Clone the Repository**
-```bash
-git clone https://github.com/yourusername/intelligent-tutor.git
-cd intelligent-tutor
+- Open the frontend in a browser: http://localhost:5173/
+- Type a question (e.g., "What is recursion?")
+- The AI tutor responds with an explanation.
+- The chat history is stored in MongoDB for continued learning.
